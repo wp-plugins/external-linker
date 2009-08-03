@@ -31,7 +31,7 @@ Not at all. The external class name is not used for any styling purposes, and yo
 
 = Does this work on admin pages? =
 
-No, it only modifies links on non-admin pages since the admin section wouldn't be XHTML Strict valid anyway.
+No, it only modifies links on non-admin pages.
 
 == To Do ==
 
