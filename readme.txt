@@ -2,7 +2,7 @@
 Contributors: jstar198
 Tags: validation, external, link, target, blank, xhtml, strict
 Requires at least: ?
-Tested up to: 2.8.2
+Tested up to: 2.8.3
 Stable tag: trunk
 
 Allows you to get around using target="_blank" by converting all your outbound links using Javascript.
